@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #333333;
+  color: white;
+}
+h4 {
+  display: inline-block;
+  padding: 20px;
+}
+input {
+  width: 30px;
+  border: 0px;
+  background-color: #333333;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+button {
+  outline: 0px;
+  border: 0px;
+  background-color: #333333;
+  color: white;
+  font-size: 20px;
+} 
+#bp+#sm {
+  padding-left: 50px;
+}
+.circle {
+  border: 2px solid #99CC00;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+#timer {
+  font-size: 30px;
+  font-family: 'Diplomata SC', cursive;
+}
